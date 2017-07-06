@@ -1,3 +1,3 @@
 #!/bin/bash
 now=`date '+%Y_%m_%d_%H_%M_%S'`;
-xcrun simctl io booted recordVideo ~/Downloads/appvideo-$now.mov
+xcrun simctl io booted recordVideo ~/Downloads/simrec-$now.mov
